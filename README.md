@@ -50,9 +50,14 @@ python test_request.py
 
 ## 📸 Demo Screenshots
 
-screenshots/1.png - API server running with uvicorn
-screenshots/2.png - Prediction request and response (curl)
-screenshots/3.png - Docker container running (docker ps)
+**API server running with uvicorn**
+![API server running with uvicorn](screenshots/1.png)
+
+**Prediction request and response (curl)**
+![Prediction request and response (curl)](screenshots/2.png)
+
+**Docker container running (docker ps)**
+![Docker container running (docker ps)](screenshots/3.png)
 
 ## 📁 Project Structure
 
